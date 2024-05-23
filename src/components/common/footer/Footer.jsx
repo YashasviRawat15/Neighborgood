@@ -45,7 +45,7 @@ const Footer = () => {
         </div>
       </footer>
       <div className='legal'>
-        <span>© 2024 RentSphere. Designd By Yashasvi Rawat.</span>
+        <span>© 2024 RentSphere. Craftedgnd By Yashasvi Rawat.</span>
       </div>
     </>
   )

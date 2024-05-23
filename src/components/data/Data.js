@@ -56,54 +56,54 @@ export const list = [
     id: 1,
     cover: "../images/list/p-1.png",
     name: "Red Carpet Real Estate",
-    location: "210 Zirak Road, Canada",
+    location: "Malviya Nagar, Jaipur",
     category: "For Rent",
-    price: "$3,700",
+    price: "₹30,700",
     type: "Apartment",
   },
   {
     id: 2,
     cover: "../images/list/p-2.png",
     name: "Fairmount Properties",
-    location: "5698 Zirak Road, NewYork",
+    location: "Civil Lines, Ahemdabad",
     category: "For Sale",
-    price: "$9,750",
+    price: "₹90,00,750",
     type: "Condos",
   },
   {
     id: 3,
     cover: "../images/list/p-7.png",
     name: "The Real Estate Corner",
-    location: "5624 Mooker Market, USA",
+    location: "Shastri Nagar, Udaipur",
     category: "For Rent",
-    price: "$5,860",
+    price: "₹50,860",
     type: "Offices",
   },
   {
     id: 4,
     cover: "../images/list/p-4.png",
     name: "Herringbone Realty",
-    location: "5621 Liverpool, London",
+    location: "Goregaon, Mumbai",
     category: "For Sale",
-    price: "$7,540",
+    price: "₹70,00,540",
     type: "Homes & Villas",
   },
   {
     id: 5,
     cover: "../images/list/p-5.png",
     name: "Brick Lane Realty",
-    location: "210 Montreal Road, Canada",
+    location: "Andheri, Mumbai",
     category: "For Rent",
-    price: "$4,850",
+    price: "₹40,850",
     type: "Commercial",
   },
   {
     id: 6,
     cover: "../images/list/p-6.png",
     name: "Banyon Tree Realty",
-    location: "210 Zirak Road, Canada",
-    category: "For Sale",
-    price: "$2,742",
+    location: "C Scheme, Jaipur",
+    category: "For Rent",
+    price: "₹20,742",
     type: "Apartment",
   },
 ]
@@ -111,28 +111,28 @@ export const awards = [
   {
     icon: <i class='fa-solid fa-trophy'></i>,
     num: "32 M	",
-    name: "Blue Burmin Award",
+    name: "Sphere Excellence Award",
   },
   {
     icon: <i class='fa-solid fa-briefcase'></i>,
     num: "43 M",
-    name: "Mimo X11 Award",
+    name: "Tenant Choice Award",
   },
   {
     icon: <i class='fa-solid fa-lightbulb'></i>,
     num: "51 M",
-    name: "Australian UGC Award",
+    name: "Community Champion Award",
   },
   {
     icon: <i class='fa-solid fa-heart'></i>,
     num: "42 M",
-    name: "IITCA Green Award",
+    name: "Rental Property of Distinction",
   },
 ]
 export const location = [
   {
     id: 1,
-    name: "New Orleans, Louisiana",
+    name: "Udaipur, Rajasthan",
     Villas: "12 Villas",
     Apartments: "10 Apartments",
     Offices: "07 Offices",
@@ -140,7 +140,7 @@ export const location = [
   },
   {
     id: 2,
-    name: "Jerrsy, United State",
+    name: "Panaji, Goa",
     Villas: "12 Villas",
     Apartments: "10 Apartments",
     Offices: "07 Offices",
@@ -148,7 +148,7 @@ export const location = [
   },
   {
     id: 3,
-    name: "Liverpool, London",
+    name: "Manglore, Karnataka",
     Villas: "12 Villas",
     Apartments: " 10 Apartments",
     Offices: "07 Offices",
@@ -156,7 +156,7 @@ export const location = [
   },
   {
     id: 4,
-    name: "NewYork, United States",
+    name: "Kochi, Kerela",
     Villas: "12 Villas",
     Apartments: " 10 Apartments",
     Offices: "07 Offices",
@@ -164,7 +164,7 @@ export const location = [
   },
   {
     id: 5,
-    name: "Montreal, Canada",
+    name: "Amritsar, Punjab",
     Villas: "12 Villas",
     Apartments: " 10 Apartments",
     Offices: "07 Offices",
@@ -172,7 +172,7 @@ export const location = [
   },
   {
     id: 6,
-    name: "California, USA",
+    name: "Indore, Madhya Pradesh",
     Villas: "12 Villas",
     Apartments: " 10 Apartments",
     Offices: "07 Offices",
@@ -183,42 +183,42 @@ export const team = [
   {
     list: "50",
     cover: "../images/customer/team-1.jpg",
-    address: "Liverpool, Canada",
+    address: "Amritsar, Punjab",
     name: "Sargam S. Singh",
     icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
   },
   {
     list: "70",
     cover: "../images/customer/team-2.jpg",
-    address: "Montreal, Canada",
+    address: "Mumbai, Maharashtra",
     name: "Harijeet M. Siller",
     icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
   },
   {
     list: "80",
     cover: "../images/customer/team-3.jpg",
-    address: "Denever, USA",
+    address: "Kochi, Kerela",
     name: "Anna K. Young",
     icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
   },
   {
     list: "51",
     cover: "../images/customer/team-4.jpg",
-    address: "2272 Briarwood Drive",
-    name: "Michael P. Grimaldo",
+    address: "Pune, India",
+    name: "Rohit Sharma",
     icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
   },
   {
     list: "42",
     cover: "../images/customer/team-5.jpg",
-    address: "2272 Briarwood Drive",
-    name: "Michael P. Grimaldo",
+    address: "Kolkata, West Bengal",
+    name: "Raunak Das",
     icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
   },
   {
     list: "38",
     cover: "../images/customer/team-5.jpg",
-    address: "Montreal, USA",
+    address: "Banglore, Karnataka",
     name: "Adam K. Jollio",
     icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
   },
@@ -226,7 +226,7 @@ export const team = [
 export const price = [
   {
     plan: "Basic",
-    price: "29",
+    price: "290",
     ptext: "per user, per month",
     list: [
       {
@@ -248,7 +248,7 @@ export const price = [
   {
     best: "Best Value",
     plan: "Standard",
-    price: "49",
+    price: "490",
     ptext: "per user, per month",
     list: [
       {
@@ -276,7 +276,7 @@ export const price = [
   },
   {
     plan: "Platinum",
-    price: "79",
+    price: "790",
     ptext: "2 user, per month",
     list: [
       {

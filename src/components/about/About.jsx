@@ -8,13 +8,13 @@ const About = () => {
   return (
     <>
       <section className='about'>
-        <Back name='About Us' title='About Us - Who We Are?' cover={img} />
+        <Back name='About Us' title='About Us ' cover={img} />
         <div className='container flex mtop'>
           <div className='left row'>
-            <Heading title='Our Agency Story' subtitle='Check out our company story and work process' />
+            <Heading title='Our Story' subtitle='Check out our company story and work process' />
 
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
+            <p>Welcome to Rent Sphere, your ultimate destination for all your renting needs! At Rent Sphere, we believe in making the process of renting hassle-free and convenient. Whether you're looking for a cozy apartment in the heart of the city, a spacious house in the suburbs, or even commercial properties for your business ventures, Rent Sphere has got you covered.</p>
+            <p>Our mission is to revolutionize the way people find and rent properties by providing a seamless online platform that connects renters with landlords and property managers. We understand that finding the perfect rental can be overwhelming, which is why we've designed Rent Sphere to be intuitive, user-friendly, and packed with features to simplify your search.</p>
             <button className='btn2'>More About Us</button>
           </div>
           <div className='right row'>

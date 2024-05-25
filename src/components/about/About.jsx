@@ -1,7 +1,7 @@
 import React from "react"
 import Back from "../common/Back"
 import Heading from "../common/Heading"
-import img from "../images/about.jpg"
+import img from "./banner.jpg"
 import "./about.css"
 
 const About = () => {
@@ -13,9 +13,9 @@ const About = () => {
           <div className='left row'>
             <Heading title='Our Story' subtitle='Check out our company story and work process' />
 
-            <p>Welcome to Rent Sphere, your ultimate destination for all your renting needs! At Rent Sphere, we believe in making the process of renting hassle-free and convenient. Whether you're looking for a cozy apartment in the heart of the city, a spacious house in the suburbs, or even commercial properties for your business ventures, Rent Sphere has got you covered.</p>
-            <p>Our mission is to revolutionize the way people find and rent properties by providing a seamless online platform that connects renters with landlords and property managers. We understand that finding the perfect rental can be overwhelming, which is why we've designed Rent Sphere to be intuitive, user-friendly, and packed with features to simplify your search.</p>
-            <button className='btn2'>More About Us</button>
+            <p>NeighborGood is on a mission to provide the simplest platform for neighborhoods to form connections & community. We are going after this by creating an Al agent that acts as the highly-social extrovert neighbor who finds symbiotic activities for people to do together.</p>
+            <p>We offer users the ability to screen potential nearby connections and arrange shared face-to-face activities. Our team previously founded Foresight Institute, Persist Ventures, & Systemic Altruism.</p>
+            <a href="#"><button className='btn2'>More About Us</button></a>
           </div>
           <div className='right row'>
             <img src='./immio.jpg' alt='' />

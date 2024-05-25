@@ -14,9 +14,11 @@
   justify-content: center;
   flex-direction: column;
   height: 250px;
-  width: 100%;
+  width: 80%;
   color: #fff;
   z-index: 222;
+  padding-left: 3rem;
+  padding-right: 1rem;
 }
 .location .overlay::after {
   content: "";

@@ -1,3 +1,7 @@
+.recent{
+  padding-bottom: 0%;
+}
+
 .recent .text {
   padding: 30px;
 }
@@ -18,4 +22,19 @@
 .recent .button {
   border-top: 1px solid #e4e8f3;
   padding: 10px 30px;
+}
+
+.connect{
+  width: 45%;
+  height: 70vh;
+  float: left;
+}
+
+.heading{
+  padding-top: 5rem;
+  width: 100%;
+}
+
+.container{
+  margin-bottom: 0;
 }
